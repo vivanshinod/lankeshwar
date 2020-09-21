@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/vivanshinod/lankeshwar/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://github.com/vivanshinod/lankeshwar/master/wave.gif" width="30px">
 
 I am Chandresh Mauriya, people call me Lankeshwar, currently working at MyRealket as android and ios App Developer, Native one. pursued bachelor's degree in IT from Sigma institute of engineering [sigma.ac.in] and also done diploma engineering in IT from Parul Polytechnic Institute [paruluniverisity.ac.in]. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
