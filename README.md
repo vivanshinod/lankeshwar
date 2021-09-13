@@ -9,7 +9,7 @@ I am Chandresh Mauriya, people call me Lankeshwar, currently working at MyRealke
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Swift](https://img.shields.io/badge/-swift-FFFFFF?style=flat-square&logo=swift)
-![Kotlin](https://img.shields.io/badge/-swift-FFFFFF?style=flat-square&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/-kotlin-DE3163?style=flat-square&logo=kotlin)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
